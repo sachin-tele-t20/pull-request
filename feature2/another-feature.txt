@@ -1,3 +1,3 @@
 this file was added in feature2 branch
 
-Another line of text is added in another feature.txt
+Another line of text is added in another
